@@ -1,6 +1,8 @@
 # KMotionHelper
 İOS CoreMotion Helper Class
 
+![alt tag](https://user-images.githubusercontent.com/16580898/30037988-f3d1cff4-91c8-11e7-8971-9401e2b8d16b.png)
+
 #### Use
 
 ```Swift
@@ -51,4 +53,6 @@
      degree(radian:Double) -> Double
      magnitude(from attitude: CMAttitude) -> Double
 ```
+
+- [X] info.plist select Privacy settings motion usage.
 
